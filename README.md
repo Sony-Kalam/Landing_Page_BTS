@@ -1,2 +1,13 @@
-# Landing_Page_BTS
-A responsive and stylish landing page built with HTML, CSS, and JavaScript. It features a gradient header, interactive navigation, card-style panels, and creative branding for a polished portfolio showcase.
+## ✨ Features
+- Gradient header with neat logo/title alignment  
+- Responsive navigation bar with hover highlights  
+- Card-style panels and shadow effects for modern UI  
+- Official BTS links integrated for authenticity  
+- Creative footer titles for unique branding  
+
+## 🛠️ Tech Stack
+- **HTML5** – Structure and semantic layout  
+- **CSS3** – Styling, gradients, hover effects, responsive design  
+- **JavaScript** – Interactive features and navigation highlights  
+
+## 📂 Project Structure
